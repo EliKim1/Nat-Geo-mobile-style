@@ -1,0 +1,19 @@
+table{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+td,th{
+    border:1px solid black;
+    width:100px;
+    height: 50px;
+    text-align: center;
+}
+th{
+    background-color: #dedede;
+}
+.two{
+    background-color: red;
+}
+.one{
+    background-color: yellow;
+}
